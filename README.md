@@ -47,7 +47,7 @@ const config = {
   // mirrorY: false,
 }
 
-fontAwesomeIconGenerator(config)
+await fontAwesomeIconGenerator(config)
 ```
 
 This will create these files:
