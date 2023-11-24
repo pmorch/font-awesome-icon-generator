@@ -59,7 +59,9 @@ bino-icon-256.png
 bino-icon-512.png
 ```
 
-That's it.
+That's it. Here is `bino-icon-128.png`:
+
+![bino-icon-512.png](https://i.imgur.com/vrD36d1.png)
 
 ## Optional extra - create favicon(s)
 
