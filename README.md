@@ -1,7 +1,10 @@
 # `font-awesome-icon-generator`: Generating icons from font-awesome
 
-Use case: You want to create an icon for your app and are lazy. Pick a
-font-awesome icon and a color and be done with it.
+Use case: You want to create a favicon and some `.png` icons for your app in
+different sizes and are lazy.
+
+This module allows you to pick a font-awesome icon and a color and be done with
+it.
 
 ## Pick an icon
 
@@ -23,7 +26,7 @@ Google has a color picker: https://www.google.com/search?q=color+picker
 Lets say you picked `#962456` as the color, because magenta binoculars are cool.
 Congratulations!
 
-## Install it
+## Install `font-awesome-icon-generator`
 
 ```shell
 $ npm install font-awesome-icon-maker
