@@ -1,0 +1,21 @@
+{
+  "name": "font-awesome-icon-generator",
+  "version": "0.0.1-beta1",
+  "description": "Create small .png icons from a font-awesome 4.7 icon",
+  "main": "index.js",
+  "keywords": [
+    "font",
+    "awesome",
+    "fontawesome",
+    "icon"
+  ],
+  "author": "Peter V. Mørch <peter@morch.com>",
+  "homepage": "https://github.com/pmorch/font-awesome-icon-generator",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@ladjs/svgfont2js": "^1.0.1",
+    "font-awesome": "^4.7.0",
+    "sharp": "^0.32.6"
+  }
+}
