@@ -9,7 +9,7 @@ import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 
 
-export default async function fontAwesomeIconMaker(providedConfig) {
+export default async function fontAwesomeIconGenerator(providedConfig) {
   
   // This would also do it, but at least with node v18.13.0 still requires to be
   // run with --experimental-import-meta-resolve. Note that this will be

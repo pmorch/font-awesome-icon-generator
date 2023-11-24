@@ -32,7 +32,7 @@ $ npm install font-awesome-icon-maker
 ## Create the configuration and go
 
 ```javascript
-import fontAwesomeIconMaker from 'font-awesome-icon-maker'
+import fontAwesomeIconGenerator from 'font-awesome-icon-generator'
 
 const config = {
   iconOutputFile: (size) => `bino-icon-${size}.png`,
@@ -44,7 +44,7 @@ const config = {
   // mirrorY: false,
 }
 
-fontAwesomeIconMaker(config)
+fontAwesomeIconGenerator(config)
 ```
 
 This will create these files:
